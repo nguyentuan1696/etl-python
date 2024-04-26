@@ -1,2 +1,6 @@
 # elt-python
-# etl-python
+
+## To-do
+
+- Extract data
+- Bulk insert into database
